@@ -1,0 +1,29 @@
+[
+  {
+    "__comments": "These are some comments",
+    "title": "Asociacion RED ELIP",
+    "description": "Escuela de Liderazgo Internacional para la Paz",
+    "text": "Somos una asociación conformada por un equipo interdisciplinario de profesionales y Capellanes comprometidos con la educación para la paz nuestra actividad principal está enfocada a brindar soluciones, capacitando, y formando líderes para nuestra región Vallecaucana.",
+    "subtitle": "OUR RECENT PROJECTS",
+    "home_items": [
+      {
+        "name": "GOLDROSE",
+        "image": "images/goldenrose.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis eros imperdiet nibh tempor luctus. Maecenas efficitur augue nunc, ac suscipit nisl pretium in. ",
+        "completed": "Summer 2019"
+      },
+      {
+        "name": "Hipster",
+        "image": "images/hipster.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis eros imperdiet nibh tempor luctus. Maecenas efficitur augue nunc, ac suscipit nisl pretium in. ",
+        "completed": "Summer 2019"
+      },
+      {
+        "name": "Freedom Travel",
+        "image": "images/freedom.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis eros imperdiet nibh tempor luctus. Maecenas efficitur augue nunc, ac suscipit nisl pretium in. ",
+        "completed": "Spring 2019"
+      }
+    ]
+  }
+]
