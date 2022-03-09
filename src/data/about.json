@@ -1,9 +1,9 @@
 [
   {
     "__comments": "These are some comments",
-    "title": "Who We Are",
-    "description": "Welcome to our company website",
-    "text": "We're on a mission to make the web beautiful. Through our passion for web design & development, we're meeting our goal one client at a time.",
+    "title": "Quienes Somos?",
+    "description": "Bienvenidos a nuestra web",
+    "text": "Somos una Organización sin ánimo de lucro, fundada el 11 de mayo de 2020 por resolución 248 de la secretaria jurídica de la gobernación del Valle del Cauca). Contribuimos en la construcción de la Paz duradera y justa, apoyando y acompañando a las víctimas del conflicto Interno en Colombia en su reparación integral con enfoque diferencial (étnicos, Lgtbiq y campesinos). Ofrecemos educación y formación que contribuye a la Paz.",
     "subtitle": "THE TEAM",
     "name_icon": "images/name.svg",
     "title_icon": "images/title.svg",
