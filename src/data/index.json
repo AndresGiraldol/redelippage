@@ -4,31 +4,16 @@
     "title": "Asociacion RED ELIP",
     "description": "Escuela de Liderazgo Internacional para la Paz",
     "text": "Somos una Organización sin ánimo de lucro, fundada el 11 de mayo de 2020 por resolución 248 de la secretaria jurídica de la gobernación del Valle del Cauca). Contribuimos en la construcción de la Paz duradera y justa, apoyando y acompañando a las víctimas del conflicto Interno en Colombia en su reparación integral con enfoque diferencial (étnicos, Lgtbiq y campesinos). Ofrecemos educación y formación que contribuye a la Paz.",
-    "subtitle": "Nuestros programas",
-    "home_items": [
+    "subtitle": "Nuestros Aliados",
+    "button": "Conoce mas de nosotros",
+    "home_alliance": [
       {
-        "name": "GOLDROSE",
-        "image": "images/goldenrose.png",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis eros imperdiet nibh tempor luctus. Maecenas efficitur augue nunc, ac suscipit nisl pretium in. ",
-        "completed": "Summer 2019"
+        "name": "alianza 1",
+        "image": "images/humanRights.png"
       },
       {
-        "name": "Hipster",
-        "image": "images/hipster.png",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis eros imperdiet nibh tempor luctus. Maecenas efficitur augue nunc, ac suscipit nisl pretium in. ",
-        "completed": "Summer 2019"
-      },
-      {
-        "name": "Freedom Travel",
-        "image": "images/freedom.png",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis eros imperdiet nibh tempor luctus. Maecenas efficitur augue nunc, ac suscipit nisl pretium in. ",
-        "completed": "Spring 2019"
-      },
-      {
-        "name": "Freedom Travel",
-        "image": "images/freedom.png",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis eros imperdiet nibh tempor luctus. Maecenas efficitur augue nunc, ac suscipit nisl pretium in. ",
-        "completed": "Spring 2019"
+        "name": "alianza 2",
+        "image": "images/redDerechosHumanos.png"
       }
     ]
   }
