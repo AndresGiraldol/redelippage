@@ -6,28 +6,28 @@
     "text": "Llevamos a cabo talleres con la población privada de la libertad, ( Construyendo puentes con el personal de custodia y administrativo de los establecimientos carcelarios en el valle del Cauca ) teniendo en cuenta la Perspectiva de la restauración y la rehabilitación integral. de igual forma intervenimos psico-espiritualmente en las problemáticas de los PPL ,abordando integralmente las causas y efectos que lo originan, teniendo en cuenta la integralidad del ser humano.",
     "work_items": [
       {
-        "name": "GOLDROSE",
-        "image": "images/goldenrose.png",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis eros imperdiet nibh tempor luctus. Maecenas efficitur augue nunc, ac suscipit nisl pretium in. ",
-        "completed": "Summer 2019"
+        "name": "Educación para la paz",
+        "image": "images/pace.png",
+        "inside_image" : "images/holdfast.png",
+        "description": "A partir de 2018 se implementó la primera fase del Programa de capacitación de mentores de construcción de paz de base que contribuyó directamente al desarrollo de 35 mentores, mujeres y hombres en la ciudad de Cali. La primera fase del proyecto también involucró y se asoció con organizaciones colaboradoras. La finalización exitosa de la primera fase llevó a la Asociación Red Elip a iniciar la segunda fase de este proyecto informado por las lecciones aprendidas y los conocimientos adquiridos de la implementación anterior. El Proyecto de mentores de construcción de paz de base, Fase II, es un proyecto de tres años, que comienza en 2022, que se enfoca en desarrollar constructores de paz de base como mentores que pueden nutrir las habilidades y capacidades de otros constructores de paz en sus organizaciones y comunidades asociadas. A través de tutorías, talleres de desarrollo de capacidades y actividades de acompañamiento, los constructores de paz de base participantes y sus organizaciones pueden realizar su trabajo de manera más efectiva y pueden responder mejor a las dinámicas cambiantes sobre el terreno. Además, el proyecto creará oportunidades y espacios intencionales para cultivar una comunidad de mentores que puedan aportar su propio contexto sobre mentoría y consolidación de la paz, así como brindarse apoyo mutuo en su práctica de mentoría más allá del período del proyecto."
       },
       {
-        "name": "Hipster",
-        "image": "images/hipster.png",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis eros imperdiet nibh tempor luctus. Maecenas efficitur augue nunc, ac suscipit nisl pretium in. ",
-        "completed": "Summer 2019"
+        "name": "Educación en Derechos Humanos",
+        "image": "images/humanRightsbg.png",
+        "inside_image" : "images/holdfast.png",
+        "description": "¿Qué habilidades necesitan los defensores y operadores de derechos humanos?  Se deben involucrar en una multitud de tareas que incluyen la redacción de documentos legales importantes, realizar investigaciones sobre casos legales, ser parte de equipo legal para negociar acuerdos difíciles y argumentar casos de derechos humanos en los tribunales. Requieren habilidades de pensamiento crítico y analítico, la capacidad de comunicarse con elocuencia y la capacidad de defender un caso de manera efectiva,  deben ser precisos, persuasivos y poseer un conocimiento exquisito de las leyes y códigos legales relevantes en entornos globales, regionales y locales."
       },
       {
-        "name": "Hold Fast",
-        "image": "images/holdfast.png",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis eros imperdiet nibh tempor luctus. Maecenas efficitur augue nunc, ac suscipit nisl pretium in. ",
-        "completed": "Summer 2019"
+        "name": "Educación Financiera",
+        "image": "images/finaltialEducation.png",
+        "inside_image" : "images/holdfast.png",
+        "description": "Conozca a su entrenador. Es hora de hablar de verdad. Se sentará con un Entrenador financiero certificado para analizar sus objetivos (¿Necesita un presupuesto? ¿Ahorrar para un proyecto ? ¿Pagar deudas?) para que pueda crear un plan solo para usted. Obtenga su plan. El éxito es un juego de números. Recibirá un plan personalizado que desglosa sus objetivos en una serie de pasos simples y alcanzables. Guardar y triunfar. Su entrenador estará allí para guiarlo, animarlo y responsabilizarlo a medida que avanza en los pasos de su plan. Próxima parada: ¡capacidad financiera!"
       },
       {
-        "name": "Freedom Travel",
-        "image": "images/freedom.png",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis eros imperdiet nibh tempor luctus. Maecenas efficitur augue nunc, ac suscipit nisl pretium in. ",
-        "completed": "Summer 2019"
+        "name": "Desarrollo Profesional",
+        "image": "images/profesional.png",
+        "inside_image" : "images/holdfast.png",
+        "description": "El Centro RED ELIP de Resultados Positivos involucra, empodera, educa y refuerza las habilidades para la vida centradas en la liberación, el crecimiento personal y la creación de equipos efectivos para desarrollar líderes y pensadores. Al hacerlo, brindamos servicios de apoyo que construyen bases de estudiantes y trabajadores asertivos, conscientes de sí mismos y responsables. Además, estos esfuerzos reducen la violencia estudiantil y el agotamiento de los empleados, crean entornos positivos en el hogar, la escuela y el trabajo, y capacitan a los empleados adultos y jóvenes con las habilidades y herramientas necesarias para conservar y mantener el empleo. "
       }
     ]
   }

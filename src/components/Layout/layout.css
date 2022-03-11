@@ -334,6 +334,9 @@ body {
 .team-icon {
   margin-top: -15px;
   height: calc(130px + 3vw);
+  border-radius: 50%;
+  border: 1 solid blue;
+  width: 200px; 
 }
 .info-icon {
   margin-bottom: -5px;

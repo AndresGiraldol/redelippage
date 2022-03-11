@@ -11,18 +11,18 @@
     "twitter_icon": "images/twitter.svg",
     "team_members": [
       {
-        "name": "Max Mustard",
-        "title": "Backend / Marketing",
-        "email": "max@crafty.co",
+        "name": "Mauricio Grimaldo",
+        "title": "Presidente",
+        "email": "grimaljs@aol.com",
         "twitter": "@Max_Mustard",
-        "image": "images/man.svg"
+        "image": "images/man2.png"
       },
       {
-        "name": "Joe Squishy",
-        "title": "Frontend / Design",
+        "name": "Javier Duncan",
+        "title": "Vice Presidente",
         "email": "joe@crafty.co",
         "twitter": "@Joe_Squishy",
-        "image": "images/man2.svg"
+        "image": "images/man.png"
       }
     ]
   }

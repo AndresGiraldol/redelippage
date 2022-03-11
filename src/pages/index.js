@@ -66,44 +66,6 @@ class IndexPage extends Component {
           >
             {homeItems}
         </div>
-        {/* <h1 className="title">{indexData.title}</h1>
-        <h2 className="subtitle">{indexData.description}</h2>
-        <div className="home-main">
-          <div className="text">{indexData.text}</div>
-          <div className="divider"></div>
-          <h3 className="subtitle">{indexData.subtitle}</h3> */}
-        {/* <div
-            className={
-              this.state.smallScreen
-                ? "grid-container-small"
-                : "home-grid-container"
-            }
-          >
-            {homeItems}
-          </div> */}
-        {/* </div> */}
-        {/* <div id="modal" className="modal" onClick={this.closeModal}>
-          <div
-            className={
-              this.state.smallScreen ? "modal-content-small" : "modal-content"
-            }
-          >
-            <span className="modal-close">&times;</span>
-            <div className="modal-grid-container">
-              <div className="modal-grid-item-left">
-                <span className="modal-title">{this.state.modal.name}</span>
-                <p className="modal-text">{this.state.modal.description}</p>
-              </div>
-              <div className="modal-grid-item-right">
-                <img
-                  src={this.state.modal.image}
-                  alt={this.state.modal.name}
-                  className="modal-image"
-                ></img>
-              </div>
-            </div>
-          </div>
-        </div> */}
       </Layout>
     )
   }

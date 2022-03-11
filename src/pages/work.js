@@ -40,6 +40,7 @@ class WorkPage extends Component {
           style={{
             backgroundImage: `url(${item.image})`,
             backgroundSize: "100%",
+            backgroundRepeat: "round",
           }}
         ></div>
       )
@@ -69,13 +70,10 @@ class WorkPage extends Component {
               <div className="modal-grid-item-left">
                 <span className="modal-title">{this.state.modal.name}</span>
                 <p className="modal-text">{this.state.modal.description}</p>
-                <p className="modal-text">
-                  Completed: {this.state.modal.completed}
-                </p>
               </div>
               <div className="modal-grid-item-right">
                 <img
-                  src={this.state.modal.image}
+                  src={this.state.modal.inside_image}
                   alt={this.state.modal.name}
                   className="modal-image"
                 ></img>
@@ -100,7 +98,7 @@ export const query = graphql`
         work_items {
           name
           description
-          completed
+          inside_image
           image
         }
       }
